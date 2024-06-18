@@ -1,10 +1,10 @@
-# TYR-Gunungpati
+# TYR Gunungpati - Satria Data SEC 2024
 Karya Satria Data Divisi SEC 2024 kami. Repositi ini adalah kumpulan kode yang kami buat dan data yang berhasil kami kumpulkan. PDF asli akan kami taruh setelah hari pengumuman finalis.
 
 Anggota:
 > - Teguh Kukuh Dwi Cahyo  
 > - Yoga Yudha Tama  
-> - Muhammad Rizqi  
+> - Muhammad Rizqi (Ketua)
 
 Dosbing:
 > Subhan
